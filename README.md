@@ -1,6 +1,7 @@
 ## Hi, I'm moonrailgun 👋.
 
-[![wakatime](https://wakatime.com/badge/user/5af605d3-6aab-4641-a12d-b35cfb680f66.svg)](https://wakatime.com/@5af605d3-6aab-4641-a12d-b35cfb680f66)![](https://visitor-badge.laobi.icu/badge?page_id=moonrailgun)
+[![wakatime](https://wakatime.com/badge/user/5af605d3-6aab-4641-a12d-b35cfb680f66.svg)](https://wakatime.com/@5af605d3-6aab-4641-a12d-b35cfb680f66)
+![](https://visitor-badge.laobi.icu/badge?page_id=moonrailgun)
 
 <img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=moonrailgun&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true" alt="moonrailgun's github stats"/>
 
