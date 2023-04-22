@@ -25,6 +25,7 @@ And those tools:
 - [lafdrop](https://github.com/moonrailgun/lafdrop): Snapdrop in laf. transfer files with p2p.
 - [source-ref](https://sourceref.moonrailgun.com/): A tool for help you find your source code quickly.Support `React`(or other jsx language), `Vue` and work with `vscode`,`jetbrains`, `github`.
 - [webpack-stats-viewer](https://github.com/moonrailgun/webpack-stats-viewer): A tool for webpack analyze with table, its clear and detail. Easy to find why we bundle file into chunk.
+- [ts-restruct](https://github.com/moonrailgun/ts-restruct): restruct your ts project.
 - [node-modules-vision](https://node-modules-vision.moonrailgun.com/): A tool which can check your `node_modules` dependencies relation with graph by G6.
 - [branch-filestorage-action](https://github.com/moonrailgun/branch-filestorage-action): Github action which can push(storage) local file into branch.
 - [github-profile](https://github.com/moonrailgun/github-profile): A fun profile tab for Github with Chrome extensions.
