@@ -39,7 +39,8 @@ And those library:
 - [tushan](http://tushan.msgbyte.com/): Build your `Admin` platform in 5 minutes!
 - [mini-star](https://ministar.moonrailgun.com/): A micro-kernel framework which can pluginize your project. Progressive Migration!
 - [saucer](https://github.com/moonrailgun/saucer): A Layout Editor for Drag and Drop. make for low-code.
-- [eventemitter-strict](https://github.com/moonrailgun/eventemitter-strict): A typescript friendly pub-sub library
+- [eventemitter-strict](https://github.com/moonrailgun/eventemitter-strict): A typescript friendly pub-sub library.
+- [react-fastify-form](https://github.com/moonrailgun/react-fastify-form): Meta based react form library, fast build form component.
 - [snowpack-plugin-replace](https://github.com/moonrailgun/snowpack-plugin-replace): Snowpack replace plugin.
 - [svrx-plugin-parcel](https://github.com/moonrailgun/svrx-plugin-parcel): svrx plugin for parcel
 - [chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator): A chinese fake address generator(support level4)
