@@ -22,6 +22,7 @@ And those tools:
 
 - [codeck](https://codeck.moonrailgun.com/): A visual programming tools with js, inspired by unreal blueprint.
 - [webbox](https://github.com/msgbyte/webbox): Organize your favorite websites.
+- [laf-storage-deploy-action](https://github.com/moonrailgun/laf-storage-deploy-action): Deploy static file into laf storage with github action.
 - [lafdrop](https://github.com/moonrailgun/lafdrop): Snapdrop in laf. transfer files with p2p.
 - [source-ref](https://sourceref.moonrailgun.com/): A tool for help you find your source code quickly.Support `React`(or other jsx language), `Vue` and work with `vscode`,`jetbrains`, `github`.
 - [webpack-stats-viewer](https://github.com/moonrailgun/webpack-stats-viewer): A tool for webpack analyze with table, its clear and detail. Easy to find why we bundle file into chunk.
