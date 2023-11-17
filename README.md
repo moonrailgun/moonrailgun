@@ -11,7 +11,7 @@ You can read me by follow link:
 
 - Read more about my [Blog](http://moonrailgun.com/)
 - Contact with [Email](mailto:moonrailgun@gmail.com)
-- Follow me in [bilibili](https://space.bilibili.com/4182198)
+- Follow me in [Twitter](https://twitter.com/moonrailgun) or [bilibili](https://space.bilibili.com/4182198)
 
 I have create those project:
 
