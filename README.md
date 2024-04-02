@@ -39,6 +39,7 @@ And those tools:
 
 And those library:
 
+- [i18next-toolkit](https://github.com/moonrailgun/i18next-toolkit): Out-of-the-box i18n solution.
 - [tushan](https://tushan.msgbyte.com/): Build your `Admin` platform in 5 minutes!
 - [rn-icons](https://github.com/moonrailgun/rn-icons): React Native Svg Icons of popular icon packs, best react native icon library.
 - [mini-star](https://ministar.moonrailgun.com/): A micro-kernel framework which can pluginize your project. Progressive Migration!
