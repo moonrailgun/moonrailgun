@@ -3,6 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/5af605d3-6aab-4641-a12d-b35cfb680f66.svg)](https://wakatime.com/@5af605d3-6aab-4641-a12d-b35cfb680f66)
 ![](https://visitor-badge.laobi.icu/badge?page_id=moonrailgun)
 ![](https://tianji.moonrailgun.com/telemetry/clnzoxcy10001vy2ohi4obbi0/cltk3e4rh06dbut4erj2rwc08/badge.svg?start=13146&name=github-readme&url=https://github.com/moonrailgun&fullNum=true)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/moonrailgun)
 
 <img style="max-width: 450px" align="right" src="https://github-readme-stats.moonrailgun.com/api?username=moonrailgun&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true" alt="moonrailgun's github stats"/>
 
