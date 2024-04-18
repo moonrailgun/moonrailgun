@@ -7,6 +7,9 @@
 
 <img style="max-width: 450px" align="right" src="https://github-readme-stats.moonrailgun.com/api?username=moonrailgun&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true" alt="moonrailgun's github stats"/>
 
+
+<a href="https://trendshift.io/developers/3271" target="_blank"><img src="https://trendshift.io/api/badge/developers/3271" alt="moonrailgun | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 A interest-driven programmer who live in China and like open-source.
 
 You can read me by follow link:
@@ -14,8 +17,6 @@ You can read me by follow link:
 - Read more about my [Blog](http://moonrailgun.com/)
 - Contact with [Email](mailto:moonrailgun@gmail.com)
 - Follow me in [Twitter](https://twitter.com/moonrailgun) or [bilibili](https://space.bilibili.com/4182198)
-
-<a href="https://trendshift.io/developers/3271" target="_blank"><img src="https://trendshift.io/api/badge/developers/3271" alt="moonrailgun | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 I have create those project:
 
