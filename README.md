@@ -15,6 +15,8 @@ You can read me by follow link:
 - Contact with [Email](mailto:moonrailgun@gmail.com)
 - Follow me in [Twitter](https://twitter.com/moonrailgun) or [bilibili](https://space.bilibili.com/4182198)
 
+<a href="https://trendshift.io/developers/3271" target="_blank"><img src="https://trendshift.io/api/badge/developers/3271" alt="moonrailgun | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 I have create those project:
 
 - [Tailchat](https://tailchat.msgbyte.com/): A pluginify and microservices IM application.
